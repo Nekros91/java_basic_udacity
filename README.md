@@ -1,2 +1,2 @@
-# java_basic_udacity
-learning java basic at udacity
+# java_basics_udacity
+learning java basics at udacity
